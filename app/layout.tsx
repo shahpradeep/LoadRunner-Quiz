@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'LoadRunner Lab — VuGen Coding Quiz',
-  description: 'Five senior-level LoadRunner VuGen coding quiz sets for performance engineers.',
+  description: 'Eleven advanced LoadRunner quiz sets covering VuGen, Controller, LRE, Analysis, load generators, and geographic strategy.',
 };
 
 export default function RootLayout({
